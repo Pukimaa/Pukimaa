@@ -1,6 +1,6 @@
 <h1>Welcome to my Github Profile!</h1>
 
-<p>I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima">Unsplash</a>.</p>
+<p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima">Unsplash</a>.</p>
 
 - 🔭 I’m currently working on my Discord Bot and my Website
 - 🌱 I’m currently learning a little bit more node.js and discsord.js to improve my Discord Bot

@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning a little bit more node.js and discsord.js to improve my Discord Bot
 - 🤔 I’m helpping with the Translation of Mastodon
 - 💬 Ask me about whatever you want.
-- 📫 How to reach me: <a href="mailto:pukima@pukima.site">**E-Mail**</a>, **Discord**: *Pukima#1143*, <a href="https://koyu.space/@pukima">**Mastodon**</a>
+- 📫 How to reach me: <a href="mailto:pukima@pukima.site">**E-Mail**</a>, <a href="https://koyu.space/@pukima">**Mastodon**</a>, **Discord**: *Pukima#1143*
 - 😄 Pronouns: he/him
 - :desktop_computer: My Systems: *Laptop:* **Windows 10 Home**, *Desktop* **Windows 10 Pro**, *Secondary Desktop* **Solus**
 - :globe_with_meridians: My Website: <a href="https://pukimaa.github.io">*pukima.site*</a>

@@ -11,4 +11,6 @@
 - :desktop_computer: My Systems: *Laptop:* **Windows 10 Home**, *Desktop* **Windows 10 Pro**, *Secondary Desktop* **Solus**
 - :globe_with_meridians: My Website: <a href="https://pukimaa.github.io">*pukima.site*</a>
 
+![Metrics](https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg)
+
 *PS: If you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.*

@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
-          user: trevtv
+          user: Pukimaa
           template: classic
           base: header, repositories, metadata
           config_timezone: America/New_York

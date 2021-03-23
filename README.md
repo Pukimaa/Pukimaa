@@ -1,7 +1,5 @@
 <h1>Welcome to my Github Profile!</h1>
 
-![Metrics](https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg)
-
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima">Unsplash</a>.</p>
 
 - 🔭 I’m currently working on my Discord Bot and my Website
@@ -14,3 +12,6 @@
 - :globe_with_meridians: My Website: <a href="https://pukimaa.github.io">*pukima.site*</a>
 
 *PS: If you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.*
+
+<h2>Metrics:</h2>
+![Metrics](https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg)

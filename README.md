@@ -3,7 +3,7 @@
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima">Unsplash</a>.</p>
 
 - 🔭 I’m currently working on my Discord Bot and my Website
-- 🌱 I’m currently learning a little bit more node.js and discsord.js to improve my Discord Bot
+- 🌱 I’m currently learning more Python cause in the past I just did some basic small stuff.
 - 🤔 I’m helpping with the Translation of Mastodon
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: <a href="mailto:pukima@pukima.site">**E-Mail**</a>, <a href="https://koyu.space/@pukima">**Mastodon**</a>, **Discord**: *Pukima#0001*

@@ -1,5 +1,7 @@
 <h1>Welcome to my Github Profile!</h1>
 
+<img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/Pukima_ASCII.png" alt="Pukima ASCII">
+
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima" target="_blank">Unsplash</a>.</p>
 
 - 🔭 I’m currently working on my Discord Bot and my Website
@@ -16,7 +18,7 @@
 
 <h2>My tech:</h2>
 Here is all my tech I mostly use:
-<img src="https://raw.githack.com/Pukimaa/Pukimaa/master/_assets/_tech/all_tech.png" alt="Tech Specs"></img>
+<img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img>
 Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
 
 <h2>Metrics:</h2>

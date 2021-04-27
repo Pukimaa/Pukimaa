@@ -16,7 +16,7 @@
 
 <h2>My tech:</h2>
 Here is all my tech I mostly use:
-![Tech Specs](https://github.com/Pukimaa/Pukimaa/tree/master/_assets/_tech/all_tech.png) <br>
+<img src="https://raw.githack.com/Pukimaa/Pukimaa/master/_assets/_tech/all_tech.png" alt="Tech Specs"></img>
 Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
 
 <h2>Metrics:</h2>

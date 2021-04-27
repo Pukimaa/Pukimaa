@@ -33,12 +33,10 @@
 </details>
 
 <h2>Guestbook:</h2>
-Just <a>create an Issue</a> and the description will be added as a message here.
-<details>
-<summary>Click to see the Guestbook</summary>
+Do you like my project or just wanna say hi? Feel free to <a href="https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook">post</a> to my guestbook!
+<br><br>
 <!--START_SECTION:guestbook-->
 
 <!--END_SECTION:guestbook-->
-</details> 
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"/></p>

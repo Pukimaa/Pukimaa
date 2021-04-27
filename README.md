@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Discord Bot and my Website
 - 🌱 I’m currently learning more Python cause in the past I just did some basic small stuff.
-- 🤔 I’m helpping with the Translation of Mastodon
+- 🤔 I’m helping with the translation of Mastodon
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: <a href="mailto:pukima@pukima.site" target="_blank">**E-Mail**</a>, <a href="https://koyu.space/@pukima" target="_blank">**Mastodon**</a>, **Discord**: *Pukima#0001* or join my Discord:<br>
 [![PukimaCommunity](https://shields.io/discord/782245108724400128?label=Pukima%20Community&color=7289DA&logo=discord&style=flat-square)](https://discord.com/invite/9YDAm3qTae)

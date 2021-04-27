@@ -32,4 +32,13 @@
   Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
 </details>
 
+<h2>Guestbook:</h2>
+Just <a>create an Issue</a> and the description will be added as a message here.
+<details>
+<summary>Click to see the Guestbook</summary>
+<!--START_SECTION:guestbook-->
+
+<!--END_SECTION:guestbook-->
+</details> 
+
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"/></p>

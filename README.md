@@ -25,8 +25,10 @@
 
 <h2>My tech:</h2>
 <details
-  <summary>Here are the specs for the tech I mostly use:</summary><br>
-  <img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img><br>
+  <summary>Here are the specs for the tech I mostly use:</summary>
+  <br><br>
+  <img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img>
+  <br><br>
   Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
 </details>
 

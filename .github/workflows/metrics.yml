@@ -28,24 +28,3 @@ jobs:
           plugin_music_limit: 4
           plugin_music_user: .user.login
           plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
-
-
-name: GitHub Readme Guestbook
-
-on:
-  issues:
-    types: [opened, deleted, edited]
-
-jobs:
-  update_guestbook:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-      - run: npm install
-      - name: Update guestbook
-        uses: muety/readme-guestbook@v1.0.9
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_entries: 5

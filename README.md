@@ -33,7 +33,7 @@
 </details>
 
 <h2>Guestbook:</h2>
-Do you like my project or just wanna say hi? Feel free to <a href="https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook">post</a> to my guestbook!
+Do you like my project or just wanna say hi? Feel free to <a href="https://github.com/Pukimaa/Pukimaa/issues/new?title=Guestbook">post</a> to my guestbook!
 <br><br>
 <!--START_SECTION:guestbook-->
 

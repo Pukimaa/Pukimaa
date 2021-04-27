@@ -1,9 +1,4 @@
 <h1>Welcome to my Github Profile!</h1>
-  ____        _    _                 
- |  _ \ _   _| | _(_)_ __ ___   __ _ 
- | |_) | | | | |/ / | '_ ` _ \ / _` |
- |  __/| |_| |   <| | | | | | | (_| |
- |_|    \__,_|_|\_\_|_| |_| |_|\__,_|
 
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima" target="_blank">Unsplash</a>.</p>
 

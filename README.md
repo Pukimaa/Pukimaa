@@ -16,12 +16,18 @@
 
 *PS: If you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.*
 
-<h2>My tech:</h2>
-Here is all my tech I mostly use:
-<img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img>
-Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
-
 <h2>Metrics:</h2>
+<details>
+  <summary>Click to see Metrics!</summary>
+  <img src="https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg" alt="Metrics">
+  <br>
+</details>
 
-![Metrics](https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg)
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+<h2>My tech:</h2>
+<details
+  <summary>Here are the specs for the tech I mostly use:</summary>
+  <img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img>
+  Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
+</details>
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"/></p>

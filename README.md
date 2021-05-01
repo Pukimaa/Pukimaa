@@ -16,11 +16,23 @@
 
 *PS: If you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.*
 
-<h2>Metrics:</h2>
+<h2>Stats:</h2>
 <details>
-  <summary>Click to see Metrics!</summary>
-  <img src="https://github.com/Pukimaa/Pukimaa/blob/master/github-metrics.svg" alt="Metrics">
-  <br>
+  <summary>Click to see Stats!</summary>
+  <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Pukimaa&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=issues" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Pukima&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+  <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pukimaa&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9" />
+  </tr>
+  </table>
 </details>
 
 <h2>My tech:</h2>
@@ -31,10 +43,5 @@
   <br><br>
   Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
 </details>
-
-<h2>Guestbook:</h2>
-Do you like my project or just wanna say hi? Feel free to <a href="https://github.com/Pukimaa/Pukimaa/issues/new?title=Guestbook">post</a> to my guestbook!
-<br><br>
-<!--START_SECTION:guestbook--><!--END_SECTION:guestbook-->
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"/></p>

@@ -47,7 +47,7 @@
   <br><br>
   <img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/all_tech.png" alt="Tech Specs"></img>
   <br><br>
-  Laptop (left), Mobile (right), Main Desktop (soon...cuz rn I am not home and cannot run neofetch).
+  Laptop (left), Mobile (center), Main Desktop (right).
 </details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"/></p>

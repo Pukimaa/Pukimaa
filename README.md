@@ -4,7 +4,7 @@
 
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima" target="_blank">Unsplash</a>.</p>
 
-- 🔭 I’m currently working on my Discord Bot and my Website
+- 🔭 I’m currently working on a new Website and a color pallete.
 - 🌱 I’m currently learning more Python cause in the past I just did some basic small stuff.
 - 🤔 I’m helping with the translation of Mastodon
 - 💬 Ask me about whatever you want.

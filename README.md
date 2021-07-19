@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a color pallete and some websites.
 - 🤔 I’m helping with the translation of Mastodon :)
 - 💬 Ask me about whatever you want.
-- 📫 How to reach me: <a href="mailto:pukima@pukima.site" target="_blank">**E-Mail**</a>, <a href="https://koyu.space/@pukima" target="_blank">**Mastodon**</a>, **Discord**: *Pukima#8949* or join my Discord:<br>
+- 📫 How to reach me: <a href="mailto:pukima@pukima.site" target="_blank">**E-Mail**</a>, <a href="https://koyu.space/@pukima" target="_blank">**Mastodon**</a>, **Discord**: *Pukima#0001* or join my Discord:<br>
 [![Pukima's Place](https://shields.io/discord/782245108724400128?label=Pukima's%20Place&color=7289DA&logo=discord&style=flat-square)](https://discord.gg/ngkUdXQZ8P)
 - 😄 Pronouns: he/him
 - :globe_with_meridians: My Website: <a href="https://pukimaa.github.io" target="_blank">*pukima.site*</a>

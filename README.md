@@ -1,7 +1,5 @@
 <h1>Welcome to my Github Profile!</h1>
 
-<img src="https://github.com/Pukimaa/Pukimaa/blob/master/_assets/Pukima_ASCII.png" alt="Pukima ASCII">
-
 <p>Hey there!👋 I am Pukima a photographer and developer. I made a Open Source Discord Bot, a Website and uploading my favorite pictures to <a href="https://unsplash.com/@pukima" target="_blank">Unsplash</a>.</p>
 
 - 🔭 I’m currently working on a new Website and a color pallete.

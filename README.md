@@ -4,12 +4,13 @@
 
 - 🔭 I’m currently working on a color pallete and some websites.
 - 🤔 I’m helping with the translation of Mastodon :)
-- ☕ Buy me a Coffee: https://www.buymeacoffee.com/pukima
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: <a href="mailto:pukima@pukima.site" target="_blank">**E-Mail**</a>, <a href="https://koyu.space/@pukima" target="_blank">**Mastodon**</a>, **Discord**: *Pukima#0001* or join my Discord:<br>
 [![Pukima's Place](https://shields.io/discord/782245108724400128?label=Pukima's%20Place&color=7289DA&logo=discord&style=flat-square)](https://discord.gg/ngkUdXQZ8P)
 - 😄 Pronouns: he/him
 - :globe_with_meridians: My Website: <a href="https://pukimaa.github.io" target="_blank">*pukima.site*</a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V85DZCG)
 
 *PS: If you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.*
 

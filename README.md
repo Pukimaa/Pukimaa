@@ -3,6 +3,6 @@
 [<img align="left" src="https://lanyard-profile-readme.vercel.app/api/751092600890458203?bg=272942">](https://discord.com/users/751092600890458203)
 
 ## 👋 Intro
-I'm Pukima (usally called Jaron in realife) a hobby developer & photographer based in northern Germany. Congrats on finding my Github Profile 🎉 More Projects can be found on my [PukimaGit profile](https://git.pukima.site/pukima).
+I'm Pukima (usally called Jaron in realife) a hobby developer & photographer based in northern Germany. Congrats on finding my Github Profile 🎉
 
-**🔗 Links:** [🌐 Website](https://pukima.site), [🍵 PukimaGit](https://git.pukima.site/pukima), [🗨️ Discord Server](https://discord.gg/ngkUdXQZ8P)
+**🔗 Links:** [🌐 Website](https://pukima.site), [🗨️ Discord Server](https://discord.gg/ngkUdXQZ8P)

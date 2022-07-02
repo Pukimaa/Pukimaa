@@ -1,8 +1,18 @@
-![Banner](https://user-images.githubusercontent.com/58347116/131690288-c19b511e-5600-4e25-8acf-6f6390d22770.png)
+# Heya 👋
+[![wakatime](https://wakatime.com/badge/user/b2c79944-f8be-4ec3-ba15-c571148b471a.svg)](https://wakatime.com/@b2c79944-f8be-4ec3-ba15-c571148b471a) ![Profile views](https://komarev.com/ghpvc/?username=Pukimaa)
 
-[<img align="left" src="https://lanyard-profile-readme.vercel.app/api/751092600890458203?bg=272942">](https://discord.com/users/751092600890458203)
+I am Pukima (Jaron irl) and I'm a hobby developer and photographer. I mostly do web dev and Discord stuff.
 
-## 👋 Intro
-I'm Pukima (usally called Jaron in realife) a hobby developer & photographer based in northern Germany. Congrats on finding my Github Profile 🎉
+Currently working on [Kayano](https://github.com/kayano-bot/kayano). Exploring [Python](https://python.org) and [Astro](https://astro.build).
 
-**🔗 Links:** [🌐 Website](https://pukima.site), [🗨️ Discord Server](https://discord.gg/ngkUdXQZ8P)
+### ✨ Some shiny stats
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Pukimaa&show_icons=true&theme=dark&hide_border=true)
+[![Pukimaa's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pukimaa&theme=dark&hide_border=true)](https://github.com/Pukimaa)
+
+### 🌐 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pukimaa&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36px" /> <img src="https://astro.build/assets/press/logomark-dark.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="28px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36px" />
+
+### 🔧 Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="36px" />

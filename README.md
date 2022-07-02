@@ -6,8 +6,10 @@ I am Pukima (Jaron irl) and I'm a hobby developer and photographer. I mostly do 
 Currently working on [Kayano](https://github.com/kayano-bot/kayano). Exploring [Python](https://python.org) and [Astro](https://astro.build).
 
 ### ✨ Some shiny stats
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Pukimaa&show_icons=true&theme=dark&hide_border=true)
-[![Pukimaa's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pukimaa&theme=dark&hide_border=true)](https://github.com/Pukimaa)
+<table>
+<td align="center" style="padding=0;width=50%;"><img src="https://github-readme-stats.vercel.app/api?username=Pukimaa&show_icons=true&theme=dark&hide_border=true" /></td>
+<td align="center" style="padding=0;width=50%;"><a href="https://github.com/Pukimaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pukimaa&theme=dark&hide_border=true" /></a></td>
+</table>
 
 ### 🌐 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pukimaa&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

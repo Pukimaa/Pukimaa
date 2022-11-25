@@ -1,9 +1,9 @@
-# Heya 👋
+# Welcome to my profile 👋
 [![wakatime](https://wakatime.com/badge/user/b2c79944-f8be-4ec3-ba15-c571148b471a.svg)](https://wakatime.com/@b2c79944-f8be-4ec3-ba15-c571148b471a) ![Profile views](https://komarev.com/ghpvc/?username=Pukimaa)
 
 I am Pukima (Jaron irl) and I'm a hobby developer and photographer. I mostly do web dev and Discord stuff.
 
-Currently working on [Kayano](https://github.com/kayano-bot/kayano). Exploring [Python](https://python.org) and [Astro](https://astro.build).
+Currently working on [Tako](https://github.com/tako-discord). Exploring [Python](https://python.org) and [Astro](https://astro.build).
 
 ### ✨ Some shiny stats
 <table>

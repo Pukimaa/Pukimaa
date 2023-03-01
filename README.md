@@ -13,9 +13,6 @@ Currently working on [Tako](https://github.com/tako-discord). Exploring [Python]
 </table>
 
 ## What I use
-**Security**:<br />
-![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden)
-
 **Development**:<br/>
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/Python-FFDF76?style=for-the-badge&logo=python)](https://python.org)
@@ -25,14 +22,7 @@ Currently working on [Tako](https://github.com/tako-discord). Exploring [Python]
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 
-**Entertainment**:<br />
-[![AniList](https://img.shields.io/badge/Anilist-152232?style=for-the-badge&logo=anilist)](https://anilist.co/user/Pukima/)
-[![Jellyfin](https://img.shields.io/badge/Jellyfin-101010?style=for-the-badge&logo=jellyfin)](https://jellyfin.org)
-[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix)](https://netflix.com)
-
 **Other**:<br />
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)](https://notion.com)
-[![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp)](https://gimp.org)
 [![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)](https://figma.com)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-090C10?style=for-the-badge&logo=uptimekuma)](https://uptime.kuma.pet)
 [![Wakatime](https://img.shields.io/badge/Wakatime-000?style=for-the-badge&logo=wakatime)](https://wakatime.com)

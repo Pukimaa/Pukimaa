@@ -13,7 +13,9 @@ Currently working on [Tako](https://github.com/tako-discord). Exploring [Python]
 </table>
 
 ## Tools I use
-Please note that I only listed the major tools I use for most of my coding projects.
+> Please note that I only listed the major tools I use for most of my coding projects.
+
+
 **Development**:<br/>
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/Python-FFDF76?style=for-the-badge&logo=python)](https://python.org)

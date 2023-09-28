@@ -9,7 +9,7 @@ Currently working on [Tako](https://github.com/tako-discord). Exploring [Python]
 ## ✨ Some shiny stats
 <table>
 <td align="center" style="padding=0;width=50%;"><img src="https://github-readme-stats.vercel.app/api?username=Pukimaa&show_icons=true&theme=dark&hide_border=true" /></td>
-<td align="center" style="padding=0;width=50%;"><a href="https://github.com/Pukimaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pukimaa&theme=dark&hide_border=true" /></a></td>
+<td align="center" style="padding=0;width=50%;"><a href="https://github.com/Pukimaa"><img src="https://streak-stats.demolab.com/?user=Pukimaa&theme=dark&hide_border=true" /></a></td>
 </table>
 
 ## Tools I use
@@ -27,6 +27,6 @@ Currently working on [Tako](https://github.com/tako-discord). Exploring [Python]
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 
 **Other**:<br />
-[![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)](https://figma.com)
+[![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)](https://figma.com/@pukima)
 [![Wakatime](https://img.shields.io/badge/Wakatime-000?style=for-the-badge&logo=wakatime)](https://wakatime.com)
 [![Discord](https://img.shields.io/badge/Discord-2C2F33?style=for-the-badge&logo=discord)](https://dsc.gg/michu-server)

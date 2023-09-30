@@ -2,9 +2,9 @@
 [![wakatime](https://wakatime.com/badge/user/b2c79944-f8be-4ec3-ba15-c571148b471a.svg)](https://wakatime.com/@b2c79944-f8be-4ec3-ba15-c571148b471a) ![Profile views](https://komarev.com/ghpvc/?username=Pukimaa)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FFF?style=flat&logo=kofi)](https://ko-fi.com/pukima)
 
-I am Pukima (Jaron irl) and I'm a hobby developer and photographer. I mostly do web dev and Discord stuff.
+I am Pukima and I'm a designer, developer and community manager. I mostly do web development and design and manage communities on various platforms like Discord.
 
-Currently working on [Tako](https://github.com/tako-discord). Exploring [Python](https://python.org) and [Astro](https://astro.build).
+Also feel free to check out [my website](https://pukima.site)! 
 
 ## ✨ Some shiny stats
 <table>

@@ -4,6 +4,8 @@
 
 I am Pukima and I'm a designer, developer and community manager. I mostly do web development and design and manage communities on various platforms like Discord.
 
+Currently working on [my portfolio on my website](https://github.com/Pukimaa/web) and [Tako](https://github.com/tako-discord).
+
 Also feel free to check out [my website](https://pukima.site)! 
 
 ## ✨ Some shiny stats
